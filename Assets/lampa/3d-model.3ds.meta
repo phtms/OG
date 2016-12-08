@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: a951a4e66b694644dbf3b1ef93f48b89
+timeCreated: 1480860943
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bulbe halo
+    100004: Composan10
+    100006: Composan11
+    100008: Composan12
+    100010: Composan13
+    100012: Composan14
+    100014: Composan15
+    100016: Composant#
+    100018: Composant0
+    100020: Composant1
+    100022: Composant2
+    100024: Composant3
+    100026: Composant4
+    100028: Composant5
+    100030: Composant6
+    100032: Composant7
+    100034: Composant8
+    100036: Composant9
+    100038: Douille_00
+    100040: Group_001
+    100042: Group_002
+    100044: Group_004
+    100046: Group_006
+    100048: Group_007
+    100050: Group_008
+    100052: Raccord_00
+    100054: Raccord_01
+    100056: Sortie_005
+    100058: Sortie_006
+    100060: T_te vis 0
+    100062: T_te vis M
+    100064: Vis M2,5_0
+    100066: Vis M2,5_1
+    400000: //RootNode
+    400002: Bulbe halo
+    400004: Composan10
+    400006: Composan11
+    400008: Composan12
+    400010: Composan13
+    400012: Composan14
+    400014: Composan15
+    400016: Composant#
+    400018: Composant0
+    400020: Composant1
+    400022: Composant2
+    400024: Composant3
+    400026: Composant4
+    400028: Composant5
+    400030: Composant6
+    400032: Composant7
+    400034: Composant8
+    400036: Composant9
+    400038: Douille_00
+    400040: Group_001
+    400042: Group_002
+    400044: Group_004
+    400046: Group_006
+    400048: Group_007
+    400050: Group_008
+    400052: Raccord_00
+    400054: Raccord_01
+    400056: Sortie_005
+    400058: Sortie_006
+    400060: T_te vis 0
+    400062: T_te vis M
+    400064: Vis M2,5_0
+    400066: Vis M2,5_1
+    2300000: Bulbe halo
+    2300002: Composan10
+    2300004: Composan11
+    2300006: Composan12
+    2300008: Composan13
+    2300010: Composan14
+    2300012: Composan15
+    2300014: Composant#
+    2300016: Composant0
+    2300018: Composant1
+    2300020: Composant2
+    2300022: Composant3
+    2300024: Composant4
+    2300026: Composant5
+    2300028: Composant6
+    2300030: Composant7
+    2300032: Composant8
+    2300034: Composant9
+    2300036: Douille_00
+    2300038: Group_001
+    2300040: Group_002
+    2300042: Group_004
+    2300044: Group_006
+    2300046: Group_007
+    2300048: Group_008
+    2300050: Raccord_00
+    2300052: Raccord_01
+    2300054: Sortie_005
+    2300056: Sortie_006
+    2300058: T_te vis 0
+    2300060: T_te vis M
+    2300062: Vis M2,5_0
+    2300064: Vis M2,5_1
+    3300000: Bulbe halo
+    3300002: Composan10
+    3300004: Composan11
+    3300006: Composan12
+    3300008: Composan13
+    3300010: Composan14
+    3300012: Composan15
+    3300014: Composant#
+    3300016: Composant0
+    3300018: Composant1
+    3300020: Composant2
+    3300022: Composant3
+    3300024: Composant4
+    3300026: Composant5
+    3300028: Composant6
+    3300030: Composant7
+    3300032: Composant8
+    3300034: Composant9
+    3300036: Douille_00
+    3300038: Group_001
+    3300040: Group_002
+    3300042: Group_004
+    3300044: Group_006
+    3300046: Group_007
+    3300048: Group_008
+    3300050: Raccord_00
+    3300052: Raccord_01
+    3300054: Sortie_005
+    3300056: Sortie_006
+    3300058: T_te vis 0
+    3300060: T_te vis M
+    3300062: Vis M2,5_0
+    3300064: Vis M2,5_1
+    4300000: Composant#
+    4300002: Composant1
+    4300004: Composant3
+    4300006: Composant6
+    4300008: Composant7
+    4300010: Douille_00
+    4300012: Bulbe halo
+    4300014: Group_008
+    4300016: Vis M2,5_0
+    4300018: Raccord_00
+    4300020: Group_007
+    4300022: T_te vis M
+    4300024: Group_006
+    4300026: Sortie_006
+    4300028: Composan11
+    4300030: Group_004
+    4300032: Composan12
+    4300034: Composan14
+    4300036: Group_002
+    4300038: Group_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

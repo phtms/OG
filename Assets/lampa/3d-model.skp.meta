@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 011dc75e630b4cd45b20b08aa9bd445a
+timeCreated: 1480860938
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 508a34539462d0a94e6d76f8b65da0d3
+  longitude: 2.333
+  latitude: 48.867
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.31705767, y: 0.26006502, z: -0.23875241}
+      lookAt: {x: -0.14683107, y: 0.13717775, z: -0.13958602}
+      up: {x: 0.45731172, y: 0.84846455, z: 0.2664093}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ampoule standard
+    100004: "Bulbe halog\xE8ne"
+    100006: Composant#1
+    100008: Composant#1 1
+    100010: Composant#1 2
+    100012: Composant#1 3
+    100014: Composant#2
+    100016: Composant#2 1
+    100018: Composant#3
+    100020: Composant#4
+    100022: Composant#4 1
+    100024: Composant#4 2
+    100026: Composant#4 3
+    100028: Composant#5
+    100030: Composant#7
+    100032: Composant#8
+    100034: Composant#8 1
+    100036: Composant#9
+    100038: Composant#9 1
+    100040: Douille
+    100042: Douille e27
+    100044: Group 15
+    100046: Group 17
+    100048: Group 29
+    100050: Group 30
+    100052: Group 32
+    100054: Group 39
+    100056: Group 43
+    100058: Group 45
+    100060: Group 46
+    100062: Group 48
+    100064: Group 53
+    100066: Group 59
+    100068: Group 60
+    100070: Group 62
+    100072: Raccord
+    100074: Raccord 1
+    100076: Sortie
+    100078: Sortie 1
+    100080: "T\xEAte vis M4"
+    100082: "T\xEAte vis M4 1"
+    100084: Vis M2,5
+    100086: Vis M2,5 1
+    400000: //RootNode
+    400002: Ampoule standard
+    400004: "Bulbe halog\xE8ne"
+    400006: Composant#1
+    400008: Composant#1 1
+    400010: Composant#1 2
+    400012: Composant#1 3
+    400014: Composant#2
+    400016: Composant#2 1
+    400018: Composant#3
+    400020: Composant#4
+    400022: Composant#4 1
+    400024: Composant#4 2
+    400026: Composant#4 3
+    400028: Composant#5
+    400030: Composant#7
+    400032: Composant#8
+    400034: Composant#8 1
+    400036: Composant#9
+    400038: Composant#9 1
+    400040: Douille
+    400042: Douille e27
+    400044: Group 15
+    400046: Group 17
+    400048: Group 29
+    400050: Group 30
+    400052: Group 32
+    400054: Group 39
+    400056: Group 43
+    400058: Group 45
+    400060: Group 46
+    400062: Group 48
+    400064: Group 53
+    400066: Group 59
+    400068: Group 60
+    400070: Group 62
+    400072: Raccord
+    400074: Raccord 1
+    400076: Sortie
+    400078: Sortie 1
+    400080: "T\xEAte vis M4"
+    400082: "T\xEAte vis M4 1"
+    400084: Vis M2,5
+    400086: Vis M2,5 1
+    2300000: "Bulbe halog\xE8ne"
+    2300002: Composant#1
+    2300004: Composant#1 1
+    2300006: Composant#1 2
+    2300008: Composant#1 3
+    2300010: Composant#2
+    2300012: Composant#2 1
+    2300014: Composant#3
+    2300016: Composant#4
+    2300018: Composant#4 1
+    2300020: Composant#4 2
+    2300022: Composant#4 3
+    2300024: Composant#5
+    2300026: Composant#7
+    2300028: Composant#8
+    2300030: Composant#8 1
+    2300032: Composant#9
+    2300034: Composant#9 1
+    2300036: Douille
+    2300038: Group 15
+    2300040: Group 17
+    2300042: Group 30
+    2300044: Group 39
+    2300046: Group 46
+    2300048: Group 60
+    2300050: Raccord
+    2300052: Raccord 1
+    2300054: Sortie
+    2300056: Sortie 1
+    2300058: "T\xEAte vis M4"
+    2300060: "T\xEAte vis M4 1"
+    2300062: Vis M2,5
+    2300064: Vis M2,5 1
+    3300000: "Bulbe halog\xE8ne"
+    3300002: Composant#1
+    3300004: Composant#1 1
+    3300006: Composant#1 2
+    3300008: Composant#1 3
+    3300010: Composant#2
+    3300012: Composant#2 1
+    3300014: Composant#3
+    3300016: Composant#4
+    3300018: Composant#4 1
+    3300020: Composant#4 2
+    3300022: Composant#4 3
+    3300024: Composant#5
+    3300026: Composant#7
+    3300028: Composant#8
+    3300030: Composant#8 1
+    3300032: Composant#9
+    3300034: Composant#9 1
+    3300036: Douille
+    3300038: Group 15
+    3300040: Group 17
+    3300042: Group 30
+    3300044: Group 39
+    3300046: Group 46
+    3300048: Group 60
+    3300050: Raccord
+    3300052: Raccord 1
+    3300054: Sortie
+    3300056: Sortie 1
+    3300058: "T\xEAte vis M4"
+    3300060: "T\xEAte vis M4 1"
+    3300062: Vis M2,5
+    3300064: Vis M2,5 1
+    4300000: Mesh Group 15
+    4300002: Mesh Group 17
+    4300004: Mesh Composant#8
+    4300006: Mesh Composant#9
+    4300008: "Mesh T\xEAte vis M4"
+    4300010: Mesh Group 30
+    4300012: Mesh Composant#7
+    4300014: Mesh Sortie
+    4300016: Mesh Group 39
+    4300018: Mesh Group 46
+    4300020: Mesh Raccord
+    4300022: Mesh Vis M2,5
+    4300024: Mesh Group 60
+    4300026: "Mesh Bulbe halog\xE8ne"
+    4300028: Mesh Douille
+    4300030: Mesh Composant#1
+    4300032: Mesh Composant#5
+    4300034: Mesh Composant#4
+    4300036: Mesh Composant#3
+    4300038: Mesh Composant#2
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

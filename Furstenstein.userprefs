@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\secretS.cs">
+    <Files>
+      <File FileName="Assets\Skrypty\Wystrzal.js" Line="1" Column="1" />
+      <File FileName="Assets\s\Points.cs" Line="1" Column="1" />
+      <File FileName="Assets\doorcloseopen.cs" Line="5" Column="1" />
+      <File FileName="Assets\s\DoorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Movebullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\secretS.cs" Line="26" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
